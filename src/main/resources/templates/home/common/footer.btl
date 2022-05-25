@@ -1,0 +1,9 @@
+<footer>
+    <div class="footBase">
+        <h3>咨询电话：门诊导医电话 ：11111111 （上午8：00至12:00）（下午14:00至18:00）
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>医院办公室电话：11111111（全天）</span></h3>
+        <p>主办单位：人民医院 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江北院区地址：重庆市江北区竹林村1号 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中山院区地址：重庆市渝中区中山一路312号<br/>版权所有：市人民医院
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;备案号：000000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+        <div class="QRcode"><img src="${ctxPath}/images/QRcode.png" width="200" height="104"><br/>手机扫一扫关注人民医院官方微信</div>
+    </div>
+</footer>
